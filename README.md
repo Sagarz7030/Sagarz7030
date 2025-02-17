@@ -1,6 +1,6 @@
 - 👋 Hi, I’m #Coder
 - 👀 I’m interested in ... Game Development
-- 🌱 I’m currently learning ... MCA
+- 🌱 I’m currently Pursuing the Degree in ... MCA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... sagar___5847 my insta id
 
