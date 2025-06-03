@@ -1,7 +1,7 @@
-- 👋 Hi, I’m #Coder
+- 👋 Hi, I’m #SJ
 - 👀 I’m interested in ... Game Development
 - 🌱 I’m currently Pursuing the Degree in ... MCA
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on GreenCycle
 - 📫 How to reach me ... ironman__5847 my insta id
 
 <!---
